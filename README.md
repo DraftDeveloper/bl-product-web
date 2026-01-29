@@ -12,15 +12,16 @@ npm
 สร้างไฟล์ .env.local
 ใส่ค่า:
 
-## .env.local
+## Environment Variables
+
+Create `.env.local`
 
 ```env
 BL_BASE_URL=
 BL_API_TOKEN=
 BL_MCHID=
-
-
-Install Dependencies
+Run locally
+bash
+Copy code
 npm install
-จากนั้นเปิดเบราว์เซอร์:
-http://localhost:3000
+npm run dev
