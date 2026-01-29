@@ -9,8 +9,7 @@ npm
 3. Access Token 
 โปรเจกต์นี้ จะใส่่ token ใน .env ครับ เพื่อความปลอดภัยครับ
 ต้องมีไฟล์ env ถึงจะ run project ได้
-สร้างไฟล์ .env.local
-ใส่ค่า:
+
 
 
 ## Environment Variables
