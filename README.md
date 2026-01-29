@@ -12,16 +12,17 @@ npm
 สร้างไฟล์ .env.local
 ใส่ค่า:
 
-## Environment Variables
 
+## Environment Variables
 Create `.env.local`
 
 ```env
 BL_BASE_URL=
 BL_API_TOKEN=
 BL_MCHID=
-Run locally
-bash
-Copy code
+```
+
+
+## Run project
 npm install
 npm run dev
