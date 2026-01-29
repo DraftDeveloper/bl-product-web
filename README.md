@@ -12,11 +12,11 @@ npm
 สร้างไฟล์ .env.local
 ใส่ค่า:
 
-# Betterland API
+# .env.local
 BL_BASE_URL=xxxxxxx
 BL_API_TOKEN=your-real-token-here
-# Merchant
 BL_MCHID=99999
+
 
 Install Dependencies
 npm install
