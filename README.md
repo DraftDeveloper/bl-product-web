@@ -13,9 +13,9 @@ npm
 ใส่ค่า:
 
 # .env.local
-BL_BASE_URL=xxxxxxx
-BL_API_TOKEN=your-real-token-here
-BL_MCHID=99999
+BL_BASE_URL=
+BL_API_TOKEN=
+BL_MCHID=
 
 
 Install Dependencies
