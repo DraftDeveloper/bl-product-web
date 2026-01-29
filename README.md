@@ -12,7 +12,9 @@ npm
 สร้างไฟล์ .env.local
 ใส่ค่า:
 
-# .env.local
+## .env.local
+
+```env
 BL_BASE_URL=
 BL_API_TOKEN=
 BL_MCHID=
